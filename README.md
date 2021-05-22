@@ -8,3 +8,6 @@
 
 ## Ethical Hacking Lab Writeups
 Every now and then whenever there's time to spare, I'll attempt to document my journey to become a certified ethical hacker [here](https://www.notion.so/4a460c2719024daa96310959c620b256?v=3d5e99ef77c046808072b9df896a1f51) :)
+
+## CodeBook
+Want to check out my ever-changing documentation of the libraries I've used so far? [Follow me~](https://www.notion.so/c44d701e289f4ffa94ba161e9bc52416?v=10d5eb042cb64495b919d73c78707ea4)
