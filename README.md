@@ -1,5 +1,6 @@
 ## Ongoing Projects
 1. [Django React RPG Web App](https://www.notion.so/7899c611276a41289fcd75024fab8454?v=ad3994e193ce432e96998a2c30598843)
+2. [OpenBoard](https://www.notion.so/5d42dafce9344f4c99055b4b7ca850f0?v=deb2a21dd928475d84fac9b577ea2abf)
 
 ## Completed Projects
 1. [Telegram WebScraper](https://www.notion.so/README-md-f182189145724c5591bf6b7fd7ea7eec)
